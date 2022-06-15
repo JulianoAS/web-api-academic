@@ -1,0 +1,14 @@
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\DTO.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\DTO.pdb
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\obj\Debug\DTO.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\obj\Debug\DTO.pdb
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\System.Web.Cors.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\System.Web.Http.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\bin\Debug\System.Web.Http.xml
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Documentos\Projetos Visual Studio\web api Academic\WebApi_Academic\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache

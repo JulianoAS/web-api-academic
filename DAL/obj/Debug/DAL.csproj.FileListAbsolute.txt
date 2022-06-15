@@ -1,0 +1,16 @@
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\DAL.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\DAL.pdb
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\DTO.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\DTO.pdb
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\obj\Debug\DAL.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\obj\Debug\DAL.pdb
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\System.Web.Cors.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\System.Web.Http.dll
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\bin\Debug\System.Web.Http.xml
+D:\Documentos\Projetos Visual Studio\web api Academic\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
